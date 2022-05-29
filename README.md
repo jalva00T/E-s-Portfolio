@@ -15,3 +15,4 @@ A live version can be viewed [here]().
 * Javascript / JQuery
 * Django
 * Cloudinary (To host uploaded images)
+* React
